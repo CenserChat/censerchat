@@ -5,7 +5,12 @@
 
 # CenserChat
 
-The ultimate Free Open Source Solution for team communications
+<img src="https://img.shields.io/github/v/release/RocketChat/Rocket.Chat?label=version" alt='version'/>
+<img src="https://img.shields.io/github/actions/workflow/status/RocketChat/Rocket.Chat/build_and_test.yml" alt='build' />
+<img src="https://img.shields.io/badge/license-MIT-green" alt='license' />
+<img alt="Codecov branch" src="https://img.shields.io/codecov/c/github/RocketChat/Rocket.Chat/develop /">
+
+`The ultimate Free Open Source Solution for team communications`
 
 ## Overview
 
